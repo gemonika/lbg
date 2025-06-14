@@ -37,7 +37,12 @@
 				instance.transform.localPosition = _map.GeoToWorldPosition(_locations[i], true);
 				instance.transform.localScale = new Vector3(_spawnScale, _spawnScale, _spawnScale);
 				_spawnedObjects.Add(instance);
-			}
+
+                // Set the eventPose of every pointer for the EventPointer component
+                instance.GetComponent<EventPointer>().eventPosition = _locations[i];
+				instance.GetComponent<EventPointer>().eventID = i + 1; // Assign a unique ID to each event pointer
+
+            }
 		}
 
 		private void Update()

@@ -9,6 +9,7 @@
 
 	public class LocationStatus : MonoBehaviour
 	{
+		Location currentLocation; //
 
 		[SerializeField]
 		Text _statusText;
@@ -50,6 +51,11 @@
 				}
 			}
 
+
+			currentLocation = currLoc; //
 		}
+
+		public double GetLocationLatitude() { return currentLocation.LatitudeLongitude.x; } //
+		public double GetLocationLongitude() { return currentLocation.LatitudeLongitude.y; } //
 	}
 }
