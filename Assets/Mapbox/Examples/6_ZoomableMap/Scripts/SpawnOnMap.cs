@@ -39,8 +39,7 @@
 				_spawnedObjects.Add(instance);
 
                 // Set the eventPose of every pointer for the EventPointer component
-                instance.GetComponent<EventPointer>().eventPosition = _locations[i];
-				instance.GetComponent<EventPointer>().eventID = i + 1; // Assign a unique ID to each event pointer
+                instance.GetComponent<ObjectPin>().objectPosition = _locations[i];
 
             }
 		}

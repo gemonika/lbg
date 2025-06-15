@@ -1,0 +1,299 @@
+[
+  {
+    "type": "header",
+    "version": "5.2.0",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+  },
+  {
+    "type": "database",
+    "name": "location_based_game"
+  },
+  {
+    "type": "table",
+    "name": "points_of_interest",
+    "database": "location_based_game",
+    "data": [
+      {
+        "ID": "1",
+        "title": "Paminklas S. Dachui „Taravos Anikė“",
+        "description": "Teatro aikštėje įrengtas fontanas su „Taravos Anikės skulptūra, skirtas Klaipėdoje gimusio poeto, Karaliaučiaus universiteto profesoriaus Simono Dacho atminimui. Skulptūra vaizduoja vieną iš poeto apdainuotų herojų, ramaus veido, jaunutę basą mergaitę, vardu Anikė, kuri mena saldų jaunystės žavesį, niūrias gyvenimo dienas ir svajingą meilės jausmą. „Taravos Anikės“ meilės daina dainuojama ne tik Vokietijoje, bet ir Šveicarijoje bei Austrijoje. Ją galima rasti tarp Vokietijos liaudies dainų, o Miuncheno rotušės varpai dar ir šiandien skambina šią melodiją.",
+        "latitude_coordinate": "55.70793151855469",
+        "longitude_coordinate": "21.131561279296875"
+      },
+      {
+        "ID": "2",
+        "title": "„Stebuklingasis peliukas“",
+        "description": "Klaipėdos senamiestyje, Kurpių ir Kepėjų gatvių sankryžoje, pastatyta miniatiūrinė skulptūra iš bronzos ir akmens - „Stebuklingasis peliukas“. Skulptūrėlė apjuosta bronzine juosta su burtažodžiais: „Mintis paversk žodžiais - žodžiai taps stebuklais“. Mieste sklando gandai, jog šis peliukas turi išskirtinių galių. Tereikia pašnibždėti savo norus jam į ausį. (Skulptoriai: S. Jurkus, S. Plotnikovas)",
+        "latitude_coordinate": "55.70852279663086",
+        "longitude_coordinate": "21.13227653503418"
+      },
+      {
+        "ID": "3",
+        "title": "„Baltijos banga“",
+        "description": "Meninės Baltijos jūros bangos ir fortepijono kompozicinė skulptūra „Baltijos banga“ - tai skulptoriaus Vlado Kančiausko ir Klaipėdos pilies džiazo festivalio dovana džiazo uostui - Klaipėdai. Ant skulptūros išrašyta: „Jeigu erdvė turi protą ir suvokia, kaip joje savo vietas yra suradę daiktai, tai galiu turėti vilties, kad kai kurie iš šių kvadratinių metrų prisimena mane su meile. Juolab dabar, kai juos mina kitos kojos...“ (Skulptorius - V. Kančiauskas)",
+        "latitude_coordinate": "55.708675384521484",
+        "longitude_coordinate": "21.1322078704834"
+      },
+      {
+        "ID": "4",
+        "title": "„Katinas džentelmeno veidu“",
+        "description": "Skulptūra „Katinas džentelmeno veidu“ sukurta ir apgyvendinta mieste dar 1980 m. Keletą kartų ji buvo dingusi, tačiau 2006 m. vasarą miesto gimtadienio proga vėl sugrįžo į savo vietą Kalvių g. skvere. Katinas yra katinas – vaikšto, išeina ir grįžta kada nori. Anuomet „Senamiesčio katinas“ turėjo slaptų galių. Ar jų neprarado beklajodamas, netruksite įsitikinti patys - tik patrinkite jo uodegą. (Dailininkas - R. Midvikis)",
+        "latitude_coordinate": "55.708953857421875",
+        "longitude_coordinate": "21.132423400878906"
+      },
+      {
+        "ID": "5",
+        "title": "„Bokštas“",
+        "description": "Klaipėdos senamiestyje, Pasiuntinių, Kepėjų ir Jono gatvių susikirtimo skvere esanti skulptūra „Bokštas“ simbolizuoja kasdienį klaipėdiečių gyvenimą. „Bokštas“ - tai tarsi namas, kuriame su savo džiaugsmais ir rūpesčiais gyvena skirtingų epochų miestiečiai. Kiekviena bokšto siena atvaizduoja vis kitą laikmetį ir kiekviena detalė pasakoja savo istoriją. Tai miesto gyvenimo ir raidos atspindys, o bokšto drakonas simbolizuoja visa griaužiantį laiką. (Skulptorius - A. Bosas)",
+        "latitude_coordinate": "55.708736419677734",
+        "longitude_coordinate": "21.13334083557129"
+      },
+      {
+        "ID": "6",
+        "title": "„Slibinas“",
+        "description": "Ar žinote, kad senamiestyje vieno pastato siena žemyn slenka „Slibinas“? Tai - plieno, bronzos ir granito skulptūra - tarsi mistinis vienos iš Klaipėdos vardo atsiradimo legendų įamžinimas. Idėja sukurti „Slibiną“ kilo perskaičius padavimą apie du brolius, kurie išėjo ieškoti vietos miestui. Vienas išėjo aplinkeliu palei upę, kitas pasirinko artimesnį kelią per pelkes ir pražuvo. Vėliau brolis radęs pražuvėlio pėdsakus ir klaikią pėdą. Toje vietoje brolio atminimui atsiradusi Klaipėda. „Slibinas“ išskirtinis, nes riaumoja ne ugnimi, o vandeniu, kai lyjant lietui iš jo nasrų į didelę pėdą bėga vanduo. (Skulptorius - V. Karčiauskas)",
+        "latitude_coordinate": "55.70846939086914",
+        "longitude_coordinate": "21.134769439697266"
+      },
+      {
+        "ID": "7",
+        "title": "Dienovidžio skveras",
+        "description": "Tai nedidelė galerija po atviru dangumi, kur galima išvysti žaismingų formų ir tūrių akmens masės kūrinių, dalis jų - „Burė” (R. Sederevičius), „Ant bangos“ (J. Jasinskaitė), „Bangus roboticus“ (V. Žegulytė) ar „Pajūrio barokas“ (A. Janušonis) alsuoja tikrų tikriausia jūros dvasia. Darbai sukurti menininkų iš įvairių Lietuvos miestų projekto „Viešas dialogas“ metu.",
+        "latitude_coordinate": "55.70803451538086",
+        "longitude_coordinate": "21.13488006591797"
+      },
+      {
+        "ID": "8",
+        "title": "„Senamiesčio paštas“",
+        "description": "Skulptūrinė kompozicija iš bronzos „Senamiesčio paštas“ puošia Tiltų ir Turgaus gatvių sankirtą. „Senamiesčio pašte“ laiškus su naudingomis, įdomiomis idėjomis, pasiūlymais ir linkėjimais gali palikti visi norintieji. Pašto dėžutė dekoruota Klaipėdos herbu. (Skulptorius - K. Pūdymas)",
+        "latitude_coordinate": "55.70919225275127",
+        "longitude_coordinate": "21.13507212539626"
+      },
+      {
+        "ID": "9",
+        "title": "„Kaminkrėtys“",
+        "description": "Klaipėdoje, ant Kalvių g. 8 namo stogo, įsitaisiusi bronzinė „Kaminkrėčio“ skulptūra. Ji buvo sukurta siekiant atgaivinti senąją kaminkrėčių legendą, atnešti Klaipėdos senamiesčiui daugiau laimės ir patrauklumo, sušildyti jo dvasią ir pralinksminti žmones. Legenda byloja, jog gatvėje sutikus suodiną, juodą kaminkrėtį, reikėdavo paliesti jo drabužį arba čiupti už sagos ir sušnibždėti norą - kaminkrėčiai atneša laimę. Tikima, kad palietus prie pastato sienos pritvirtintą sagą, aplankys laimė. Čia galite priklijuoti ir savo laimingą sagą. (Skulptorius - K. Pūdymas)",
+        "latitude_coordinate": "55.7099401850568",
+        "longitude_coordinate": "21.135087255448713"
+      },
+      {
+        "ID": "10",
+        "title": "Paminklas Lietuvos vardo paminėjimo tūkstantmečiui.",
+        "description": "Danės pakrantę puošiantis kūrinys - septynių metrų aukščio granitinė kolona su rutuliu, kurio viršuje - bronzinis žirgas su raiteliu. Paminklas skirtas Lietuvos vardo (1009 m.) paminėjimo tūkstantmečiui. (Skulptorius - R. Midvikis). Paminklas simbolizuoja pagarbą tiems, kurie kūrė Lietuvos valstybę, gynė ją nuo priešų, išsaugojo tėvų kalbą ir kultūrą. Statant paminklą įmūryta kapsulė su laišku ateinančioms kartoms. Jame – poeto Justino Marcinkevičiaus žodžiai „Tauta išlieka, kai išlieka išliekančiųjų. Dainuoju Lietuvą kaip džiaugsmą, išaugusį iš pelenų“.",
+        "latitude_coordinate": "55.710082019304124",
+        "longitude_coordinate": "21.13462046924627"
+      },
+      {
+        "ID": "11",
+        "title": "„Puodynė su pinigais“",
+        "description": "Prie pastato Tiltų g. 1 galite išvysti išverstą puodynę su monetomis. Šiame 1915-1916 m. statytame name veikė pirmoji uostamiesčio taupomoji kasa. Bronzinė puodynė padaryta pagal Mažosios Lietuvos istorijos muziejuje esančius eksponatus. Monetos skirtingos: įvairių dydžių, šalių ir laikotarpių, yra ir su Klaipėdos simbolika. Tokia įvairovė simbolizuoja Klaipėdą - uostamiestį, į kurį suplaukia prekiaujant su užsienio valstybėmis gauti pinigai. (Skulptorė - I. Šuliak)",
+        "latitude_coordinate": "55.71002431872677",
+        "longitude_coordinate": "21.13419502911576"
+      },
+      {
+        "ID": "12",
+        "title": "Dekoratyviniai - atminimo knechtai",
+        "description": "Danės upės krantinėje įrengti septyni „Knechtai“, kurie įprasmina ir pasauliui primena svarbius Lietuvos jūreivių žygdarbius. Knechtai skirti Lietuvos buriuotojams, kurie jachtomis perplaukė Atlantą, irkline valtimi Baltijos jūrą perplaukusiam G.Paulioniui, jachtos „Ambersail“ įgulai, kuri 2009 m. Lietuvos vardo tūkstantmečiui paminėti apiplaukė aplink pasaulį. (Skulptoriai: A. Skiezgelas, K. Pūdymas)",
+        "latitude_coordinate": "55.709736042640436",
+        "longitude_coordinate": "21.13258249977218"
+      },
+      {
+        "ID": "13",
+        "title": "Paminklas vieningai Lietuvai „Arka“",
+        "description": "2003 m. sausio 15 d. sukako 80 metų, kai Klaipėdos kraštas buvo prijungtas prie Lietuvos Respublikos, o šiam istoriniam įvykiui atminti atidengtas paminklas vieningai Lietuvai. Skulptūros mažoji kolona iš raudonojo granito simbolizuoja Mažąją Lietuvą ir jos kultūrinį paveldą, o pilkoji - Didžiąją Lietuvą. Viršutinė, tartum nuskelta paminklo dalis vaizduoja Karaliaučiaus sritį (dab. Kaliningradas). Ant paminklo iškalti Ievos Simonaitytės žodžiai: „Esame viena tauta, viena žemė, viena Lietuva“. (Skulptorius - A. Sakalauskas)",
+        "latitude_coordinate": "55.71052968176776",
+        "longitude_coordinate": "21.13344114393693"
+      },
+      {
+        "ID": "14",
+        "title": "„Seklys“",
+        "description": "S. Neries ir Vilties gatvių sankryžoje prie raudonų plytų sienos prigludusi bronzinė skulptūra „Seklys“ įamžina kriminalinės policijos pareigūnų darbą. Apsirengęs paltu, su kepure ant galvos bronzinis „darbuotojas“ tarsi stebi kas vyksta už kampo. Jo palto atlape įsegtas tarpukario Lietuvos kriminalinės policijos pareigūno ženklelis, patrynę jį išvengsite nemalonumų, susidūrimų su kišenvagiais ar plėšikais, pritrauksite sėkmę ir ramybę. (Skulptorius - S. Plotnikovas)",
+        "latitude_coordinate": "55.71862279068574",
+        "longitude_coordinate": "21.134304210591363"
+      },
+      {
+        "ID": "15",
+        "title": "Paminklas Kristijonui Donelaičiui",
+        "description": "Šalia Lietuvos muzikos ir teatro akademijos Klaipėdos fakulteto stovi paminklas Kristijonui Donelaičiui - lietuvių pasaulietinės literatūros pradininkui. Garsiausiame K. Donelaičio kūrinyje, poemoje „Metai“, pasakojama apie Mažosios Lietuvos baudžiauninkų - būrų gyvenimą. Granitinis paminklas yra penkių metrų aukščio, jo viršūnėje iškalta poeto galva, o šone eilutės iš poemos „Metai“: „Sveikas, svieteli margs!“. (Skulptorius - P. Deltuva).",
+        "latitude_coordinate": "55.71412812488712",
+        "longitude_coordinate": "21.138155754986368"
+      },
+      {
+        "ID": "16",
+        "title": "Skulptūrų parkas",
+        "description": "Skulptūrų parkas - tai meno galerija po atviru dangumi. 10 ha parko teritorijoje eksponuojama daugiau nei 100 įvairios tematikos meninių darbų, yra išlikę Klaipėdos mecenatų Liudviko Juliaus Vynerio, Gerlachų šeimos kapai bei 1923 metų Klaipėdos krašto prijungimo prie Lietuvos dalyvių memorialas. Parko teritoriją sudaro ne vienas istorinis sluoksnis - nuo 1820 m. iki XX a. antrosios pusės čia veikė senosios miesto kapinės, o šalia buvusios vakarinės kapinių ribos dar ir dabar išlikęs Napoleono karus menantis gynybinis įtvirtinimas, kitaip dar vadinamas šancu. Klaipėdos skulptūrų parkas - istorijos, meno ir gamtos oazė pačiame miesto centre.",
+        "latitude_coordinate": "55.71726147396574",
+        "longitude_coordinate": "21.1397757566692"
+      },
+      {
+        "ID": "17",
+        "title": "„Iešmininkas“",
+        "description": "Solidaus amžiaus, barzdotas, pasitempęs ir orus vyras su žibintu rankoje netrukus duos ženklą traukinio mašinistui... Bronzinė skulptūra „Iešmininkas“ - tai dar vienas miestui savitumo suteikiantis ir XIX a. primenantis paminklas. Jis stovi prie seno pastato, kuris mena laikus kai iš Klaipėdos į aplinkines gyvenvietes siauruko bėgiais važinėjo traukiniai. Čia, iki Antrojo pasaulinio karo pabaigos, veikė pirmoji Klaipėdos krašte siaurojo geležinkelio stotis. (Skulptorius - K. Pūdymas)",
+        "latitude_coordinate": "55.71968527052128",
+        "longitude_coordinate": "21.135685588928634"
+      },
+      {
+        "ID": "18",
+        "title": "„Atsisveikinimas su Tėvyne“",
+        "description": "1941 m. Klaipėdoje buvo 41188 gyventojai, o 1945 m. jų mieste neliko nė dvidešimties. Skulptūra „Atsisveikinimas su Tėvyne“ primena tragišką šio krašto žmonių likimą Antrojo pasaulinio karo metais ir įkūnija išeivių iš Rytų Prūsijos pasitraukimą iš gimtinės, prasidėjusį 1944 metais. (Skulptoriai - L. ir R. Janišovskiai)",
+        "latitude_coordinate": "55.720727825352554",
+        "longitude_coordinate": "21.135212801277298"
+      },
+      {
+        "ID": "19",
+        "title": "Paminklas Martynui Mažvydui",
+        "description": "Martynas Mažvydas - pirmosios lietuviškos knygos „Katekizmas“ (1547 m.) autorius ir lietuvių raštijos pradininkas. Minint knygos išleidimo 450-ąsias metines, Lietuvininkų aikštėje jam pastatytas paminklas. Skulptūroje M. Mažvydo figūra lyg pakilusi į sakyklą, žemiau kurios – titulinis pirmosios lietuviškos knygos lapas. Akmeniniai stulpeliai priešais skulptūrą simbolizuoja mokyklos suolus, o ant grindinio išrėžtos gotikinės raidės – tokios kaip M. Mažvydo elementoriuje. (Skulptorius - R. Midvikis)",
+        "latitude_coordinate": "55.7186543986571",
+        "longitude_coordinate": "21.12883428159337"
+      },
+      {
+        "ID": "20",
+        "title": "„Laiko knyga“",
+        "description": "Klaipėdos apskrities viešosios Ievos Simonaitytės bibliotekos kiemelyje ant sienos išvysite saulės laikrodį - kalendorių. Tai pats natūraliausias ir tikriausias laiko tėkmės matavimo prietaisas. Pažvelgę į „Laiko knygą“, sužinosite, koks šią akimirką yra tikslus saulės laikas Klaipėdoje. Ne tas, kurį mums lemia sutartinės laiko juostos ir rodo įprasti laikrodžiai, bet tikras, natūralus, duotas gamtos. Laikrodyje įrašyti žodžiai: „Laikas yra neaprėpiama, amžina upė, nešanti mus supančia begalybe.“ (Skulptoriai: R. Klimavičius, R. Martinkus)",
+        "latitude_coordinate": "55.71692422018477",
+        "longitude_coordinate": "21.12771118853752"
+      },
+      {
+        "ID": "21",
+        "title": "„Herkus Mantas“",
+        "description": "Skulptūra simbolizuoja karvedį, Didžiojo prūsų sukilimo vadą Herkų Mantą, stojusį į kovą prieš kryžiuočius (XIII a.). Skulptorius išryškina idealius šios asmenybės bruožus, vidinį bei išorinį grožį, ne tik fizinę, bet ir dvasinę karvedžio jėgą. Paminklas pastatytas l983 m. (Skulptorius - V. Mačiuika)",
+        "latitude_coordinate": "55.717064585623426",
+        "longitude_coordinate": "21.12865520961309"
+      },
+      {
+        "ID": "22",
+        "title": "„Kančia“",
+        "description": "Memorialas „Kančia“ yra skirtas Klaipėdos politiniams kaliniams ir tremtiniams atminti. Bronzinė vyro figūra, lietuvių liaudies skulptūrai būdinga Rūpintojėlio siluetą primenanti poza, tačiau galvą spaudžia ne erškėčių vainikas – ji suveržta metaliniu lanku. (Skulptorius - J. Genevičius)",
+        "latitude_coordinate": "55.715245288132664",
+        "longitude_coordinate": "21.127302899670877"
+      },
+      {
+        "ID": "23",
+        "title": "Martyno Mažvydo alėja",
+        "description": "M. Mažvydo pėsčiųjų alėjoje pastatytus granitinius suolus puošia originalūs skulptūriniai akcentai. Svarbiausias jų - pusės metro aukščio bronzinis berniukas „Klaipėdietis“. Berniukas stovi atsirėmęs į per amžius beveik nepakitusį Klaipėdos atpažinimo ženklą, miesto herbą (skulptorius S. Jurkus). Skulptūra sukurta Klaipėdos 750 metų jubiliejui. Skulptūros „Mergaitė su paukščiuku“, „Svajoklis“, „Katinas“, „Muzikos raktas“, „Saulės laikrodis“, net suoliukas - šuo - tai kiti miesto menininkų darbai jau ne vienerius metus džiuginantys alėja vaikštinėjančius žmones.",
+        "latitude_coordinate": "55.71411460405482",
+        "longitude_coordinate": "21.131445457280133"
+      },
+      {
+        "ID": "24",
+        "title": "Paminklas J. Zauerveinui",
+        "description": "Paminklas Lietuvos šviesuoliui Jurgiui Zauerveinui (1831-1904) pastatytas 2011 m., minint 180-ąsias jo gimimo metines. Vokietijoje gimęs poetas Mažojoje Lietuvoje praleido net 25 metus. Manoma, kad būtent šiame pastate, Liepų g. 5, veikusiuose nakvynės namuose poetas ir apsistodavęs. J. Zauerveinas budino tautiškumą, skatino patriotizmą ir meilę savo krašto istorijai, tradicijoms ir kalbai. Paminklo akmenyje iškaltas J. Zauerveino eilėraščio „Lietuviais esame mes gimę, lietuviais turime ir būt...“ ketureilis. (Skulptorius - G. Jonkus)",
+        "latitude_coordinate": "55.71220389756774",
+        "longitude_coordinate": "21.13296619981006"
+      },
+      {
+        "ID": "25",
+        "title": "„Undinėlė“",
+        "description": "Danės upės krantinėje išnirusi „Undinėlės“ skulptūra - Klaipėdos, kaip jūrinio miesto, simbolis... O gal tai pati Danės undinėlė, gedinti pražuvusio jauno kuršių žvejo? Kalbama, kad patvinus upei, ji pasirodanti kaip graži, geidulinga mergelė žvynuota undinės uodega. Nuleidusi akis ji prisimena jaunikaitį, kurio nepavyko išgelbėti. Skulptorius K. Pūdymas savo kūrinyje iš bronzos įamžino ir lietuvišką monetą - undinėlės uodega puošta vieno lito nominalo monetomis.",
+        "latitude_coordinate": "55.710201003963796",
+        "longitude_coordinate": "21.133151727876886"
+      },
+      {
+        "ID": "26",
+        "title": "„Meilės medis“",
+        "description": "Skulptūra „Meilės medis“ - tikras meilės simbolis pačioje miesto širdyje - prie Biržos tilto. Medžio lapais tapo įsimylėjusių žmonių pakabintos spynos, simbolizuojančios amžiną ir ištikimą meilę. Skulptūrą sukurė kalviai iš Lietuvos, Latvijos, Ukrainos ir Lekijos 20l3 m. tarptautinio plenero „Keturi vėjai“ metu.",
+        "latitude_coordinate": "55.71016958579507",
+        "longitude_coordinate": "21.132889015097334"
+      },
+      {
+        "ID": "27",
+        "title": "„Žvejys“",
+        "description": "Danės upės krantinėje, netoli Biržos tilto, stovi viena seniausių Klaipėdos skulptūrų - „Žvejys“, pastatyta 1971 m. (Skulptorius - K. Kisielius, architektas - P. Šadauskas)",
+        "latitude_coordinate": "55.709904691296906",
+        "longitude_coordinate": "21.131504944303117"
+      },
+      {
+        "ID": "28",
+        "title": "„Bučinys“",
+        "description": "Danės upės krantinėje, šiauriniame rage, ant pirštų galų pasistiebusi bronzinė mergaičiukė siunčia bučinį kitoje upės pusėje stovinčio berniuko su šuneliu skulptūrai. Skulptūra „Bučinys“ puošia krantinę ir laukia įsimylėjusių lankytojų. (Skulptorius - R. Kvintas)",
+        "latitude_coordinate": "55.7061807309238",
+        "longitude_coordinate": "21.123093826109123"
+      },
+      {
+        "ID": "29",
+        "title": "„Juodasis vaiduoklis“",
+        "description": "Jeigu dar nematėte kaip atrodo tikras vaiduoklis - pats metas jį išvysti ir susidraugauti! Tai viena populiariausių ir mėgiamiausių skulptūrų Klaipėdoje. Piliavietės pašonėje, greta pasukamojo tiltelio, iš vandens į krantą žengia bronzinis 2,4 m aukščio vaiduoklio siluetas. Ši skulptūra įkūnija vieną senųjų legendų, pasakojančių apie Klaipėdos pilies sargybinį, kuris netikėtai prieš save išvydo vaiduoklį. Mistinis legendos svečias įspėjo, kad miestui gali „grūdų ir malkų pritrūkti“, o po to taip pat netikėtai pradingo rūke. (Skulptoriai: S. Jurkus, S. Plotnikovas, architektai: V. Dapkevičius, V. Balsys)",
+        "latitude_coordinate": "55.70659320425045",
+        "longitude_coordinate": "21.12681794852495"
+      },
+      {
+        "ID": "30",
+        "title": "„Vėjas“",
+        "description": "Tarptautiniame kalvystės plenere „Keturi vėjai“ kalviai iš Lietuvos ir užsienio kūrė vėjarodę vėjo stichijos tema. Kaip senosiose kuršių vėjarodėse buvo naudojami ženklai ir užkeikimai, taip ir plenero kalviai kūrė savo užkeikimus ir vėjo simbolius. Visi šie simboliai atspindi galingą vėjo energijos lauką.",
+        "latitude_coordinate": "55.70579722878017",
+        "longitude_coordinate": "21.125831244770758"
+      },
+      {
+        "ID": "31",
+        "title": "„Vaikystės svajonė“",
+        "description": "Skulptūrinė kompozicija „Vaikystės svajonė“, įkūnija vaikystėje gimstančias įspūdingiausias ir reikšmingiausias svajones. Ji pastatyta Kruizinių laivų terminale, kur atkeliauja didingi kruiziniai laivai. Čia taip pat mėgsta buriuotis miestiečiai ir miesto svečiai. Skulptūrinę kompoziciją sudaro ant didžiulio akmens pasilypėjęs, jūreiviška kepurėle praplaukiantiems laivams mojuojantis berniūkštis, kuris už pavadėlio laiko grakštų skaliką. Natūralaus ūgio (140 cm) padauža bei jo šunelis matosi iš tolo ir džiugina keliaujančiuosius mariomis. (Skulptorius - S. Jurkus, architektas - V. Paulionis)",
+        "latitude_coordinate": "55.70546513083345",
+        "longitude_coordinate": "21.12200894445056"
+      },
+      {
+        "ID": "32",
+        "title": "„Laukinis žmogus“",
+        "description": "Tiltų gatvėje, ties įėjimu į „Frydricho pasažą“ (kavinių ir restoranų gatvelė), pamatysite augaloto laukinio vyro skulptūrą. Beveik 3 m. aukščio vyras, vainikuotas ąžuolo lapų vainiku, atsirėmęs į inkarą, susieja praeitį su dabartine gatvelės paskirtimi, o ant pjedestalo esančios plaketės priverčia praeivį nusišypsoti... Skulptūra buvo sumanyta kaip dovana klaipėdiečiams ir istorijai, nes senajame Frydricho priemiesčio herbe buvo vaizduojamas laukinis žmogus, kurį ši skulptūra ir atkartojo. (Skulptorius - S. Jurkus, architektė - D. Abelkienė)",
+        "latitude_coordinate": "55.7072428704575",
+        "longitude_coordinate": "21.138094105667292"
+      },
+      {
+        "ID": "33",
+        "title": "„Senamiesčio sargas“",
+        "description": "Iš Pilies gatvės pasukus į Turgaus aikštę praeivius pasitinka bronzinis, dobermanų veislės šuo – „Senamiesčio sargas“, kuris nuo 2006 m. saugo Klaipėdos senamiestį. (Skulptorius - S. Jurkus, architektas - V. Paulionis)",
+        "latitude_coordinate": "55.70485673355427",
+        "longitude_coordinate": "21.13582113563478"
+      },
+      {
+        "ID": "34",
+        "title": "„Neringa“",
+        "description": "Skulptūroje „Neringa“ vaizduojama moteris, ant savo pečių laikanti du burlaivius ir dovanojanti mums ramybe alsuojančias marių bangas, žaliuojančius pušynus ir legendomis apipintas Kuršių Nerijos kopas... Skulptūra simbolizuoja Klaipėdą, kaip uostamiestį, o paminklinė kompozicija su takeliais ir laipteliais - jūrą ir jos bangavimą. (Skulptorė - D. Matulaitė, architektas - R. Buivydas). Skulptūra stovi vietoje, kurioje kadaise stovėjo Kūlių vartai, saugoję miestą nuo priešų ir plėšikų.",
+        "latitude_coordinate": "55.70661801478828",
+        "longitude_coordinate": "21.140680467319495"
+      },
+      {
+        "ID": "35",
+        "title": "Paminklas žuvusiems jūrininkams „Albatrosas“",
+        "description": "Visagalė jūra, tokia didelė ir garsi! Tokia gundanti, bet drauge ir baugi... Ji suteikia ne tik džiaugsmą šėlstant bangose, bet ir skausmą, kai amžinybėn pasiglemžia jūrininkų sielas. Baltijos jūros dugne guli lietuvišką trispalvę išplukdę laivai ir amžinybėm iškeliavę jūreiviai, kurių pavardes su nuskendusių laivų pavadinimais rasite iškaltas ant paminklo „Albatrosas“. Jis - laisvės ir drąsos simbolis, kuriame, anot legendų, atgimsta jūrininkų sielos... Paminklas visiems primena apie tuos, kurie išplaukė ir nesugrįžo. (Skulptorius - K. Pūdymas).",
+        "latitude_coordinate": "55.71754299528964",
+        "longitude_coordinate": "21.102138212065444"
+      },
+      {
+        "ID": "36",
+        "title": "„Angelas“",
+        "description": "2016 m. uostamiestyje vykusiame kalvystės plenere „Keturi vėjai“ gimė naujas kūrinys - angelas. Skulptūra sveria daugiau nei 100 kg - angelo sparnai sudaryti iš 30 skirtingų metalo plunksnų - kiekvienas plenere dalyvavęs kalvis nukalė po vieną. Kiekvienas menininkas turi savo braižą, todėl ir visos plunksnos skirtingos. Tai suteikia angelui unikalumo.",
+        "latitude_coordinate": "55.71881064999628",
+        "longitude_coordinate": "21.12440663387112"
+      },
+      {
+        "ID": "37",
+        "title": "Paminklas A. P. Poškai „Motociklininkas“",
+        "description": "Ši skulptūra - paminklas yra skirtas Lietuvos motociklininkų simboliu įvardijamam, nenuilstančiam keliautojui, motociklininkui Antanui Poškevičiui-Poškai (1903-1992). 1928-ais A. P. Poška tapo pirmuoju Lietuvos motociklininku apvažiavusiu Baltijos jūrą. Mokslininkas, antropologas, žurnalistas nepraėjus nė metams po kelionės aplink Baltijos jūrą nukeliavo net iki Indijos ir apie tai parašė knygų seriją „Nuo Baltijos iki Bengalijos“. (Skulptorius - A. Sakalauskas, architektai: V. Dapkevičius, V. Balsys). Šis paminklas tapo keliautojų simboliu. Teigiama, kad bronzinis motociklas, ant kurio sėdi A. Poška, turi mistinių savybių. Kiekvieną, patrynusį transporto priemonės žibintą, aplankys sėkmė.",
+        "latitude_coordinate": "55.705631396394104",
+        "longitude_coordinate": "21.133496318418068"
+      },
+      {
+        "ID": "38",
+        "title": "„Mūza“",
+        "description": "Mūzos skulptūra skirta aktoriui ir režisieriui Broniui Gražiui (1934-2013). Pagrindinis 110 cm aukščio skulptūros akcentas - į dangų žvelgianti kaukė. Figūra pastatyta ant akmeninio pjedestalo, o ant jo iškaltos eilės iš B. Gražio poezijos: „Aktorius eina į sceną mažyčio stebuklo daryti“ ir „Ateikite visi pas mane, pavaišinsiu kmynų arbata, paseksiu pasaką apie užburtą rožę, išsipildys visos jūsų svajonės. Bus linksma.“ (Skulptorius - R. Klimavičius)",
+        "latitude_coordinate": "55.70818895902649",
+        "longitude_coordinate": "21.135732358768653"
+      },
+      {
+        "ID": "39",
+        "title": "„Pasivaikščiojimas su žuvimi“",
+        "description": "Melnragėje, ant šiaurinio molo, pastatyta žvejo skulptūra įdomi ne tik savo menine išraiška, bet ir unikalia atlikimo technika. Žvejas vaizduojamas tarsi besiveržiantis prieš vėją. Jo paltas plaikstosi, savo veidą slepia po skrybėle, o jį lydi žuvelė. Skulptūrinė kompozicija yra daugiau nei dviejų metrų aukščio, nukaldinta iš 2-4 mm storio cinkuoto plieno lakštų ir padengta oksidu. Pasak kalvio, tokio išskirtinio dirbinio nėra visoje Lietuvoje. (Skulptoriai S. Plotnikovas ir S. Jurkus, kalvis G. Černiauskas, architektas - V. Paulionis)",
+        "latitude_coordinate": "55.73014510349888",
+        "longitude_coordinate": "21.081575544931"
+      },
+      {
+        "ID": "40",
+        "title": "„Vydūnas“",
+        "description": "Susipažinkite – Vilhelmas Vilius Storosta. Tiesa, jo galbūt taip nepažinsite – Vydūnas jis vardu. Filosofas, rašytojas, dramaturgas, kompozitorius, dirigentas, mokytojas. Žmogus. Taip save pristatė vienas iš svarbiausių Mažosios Lietuvos kultūros ir visuomenės veikėjų. Puodžių ir Bokštų gatvės sankirtoje sukurtas ypatingas skveras, primenantis Vydūno sampratą atitinkantį sodą. Skulptūros autoriai siekė įamžinti jo mąstyseną ir kūrybingą sielą, besiveržiančią tiesos link. Sustokite, prisėskite skvere ir, uosdami nuostabų čia žydinčių gėlių kvapą, mąstykite apie tai, kas Vydūnui buvo svarbu - išmintį, dorumą, sąžinę, meilę, gėrį ir grožį... (Skulptoriai O. Sidarukas, B. Krylovas, A. Sakalauskas)",
+        "latitude_coordinate": "55.71192557215615",
+        "longitude_coordinate": "21.127895211394648"
+      }
+    ]
+  }
+]
+

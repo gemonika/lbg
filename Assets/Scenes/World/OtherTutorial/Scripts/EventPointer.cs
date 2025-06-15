@@ -54,11 +54,11 @@ public class EventPointer : MonoBehaviour
 
         if (distance < 50) // Check if the distance is less than 50 meters
         {
-            poiUIManager.DisplayNearPanel(eventID); // Show the near panel if close enough
+            //poiUIManager.DisplayNearPanel(eventID); // Show the near panel if close enough
         }
         else
         {
-            poiUIManager.DisplayFarPanel(); // Show the far panel if too far
+            //poiUIManager.DisplayFarPanel(); // Show the far panel if too far
         }
 
         Debug.Log("Distance to event: " + distance);

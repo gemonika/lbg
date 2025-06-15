@@ -49,10 +49,14 @@ public class Player : MonoBehaviour
 
     private void InitLevelData()
     {
-        level = (currentXP / levelBase) + 1; // Calculate level based on current XP and level base
-        requiredXP = levelBase * level; // Calculate required XP for the next level
+        //level = (currentXP / levelBase) + 1; // Calculate level based on current XP and level base
+        if (currentXP == requiredXP)
+        {
+            level++; // Increment level if current XP equals required XP
+            requiredXP += levelBase * level; // Calculate required XP for the next level
+        }
+        print($"Level: {level}, Current XP: {currentXP}, Required XP: {requiredXP}"); // Debug log for level and XP
     }
-
     private void Save()
     {
         BinaryFormatter bf = new BinaryFormatter();

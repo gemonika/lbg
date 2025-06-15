@@ -8,6 +8,7 @@ public class UiManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI xpText;
     [SerializeField] private TextMeshProUGUI levelText;
     [SerializeField] private GameObject menu;
+    [SerializeField] private GameObject status;
 
     [SerializeField] private AudioClip menuButtonSound;
     private AudioSource audioSource;
@@ -21,6 +22,8 @@ public class UiManager : MonoBehaviour
         Assert.IsNotNull(levelText, "Level Text is not assigned in the inspector.");
         Assert.IsNotNull(menu, "Menu GameObject is not assigned in the inspector.");
         Assert.IsNotNull(menuButtonSound, "Menu Button Sound is not assigned in the inspector.");
+
+        Assert.IsNotNull(status, "Status GameObject is not assigned in the inspector.");
     }
 
     private void Update()
@@ -47,33 +50,19 @@ public class UiManager : MonoBehaviour
         toggleMenu(); // Toggle the menu visibility
     }
 
+    public static bool IsMenuOpen { get; private set; }
     private void toggleMenu()
     {
-        // If the menu is active, deactivate it; if it's inactive, activate it.
-        menu.SetActive(!menu.activeSelf);
+        // Only close panels if the menu is currently open
+        if (!menu.activeSelf)
+        {
+            // Get the POIUIManager component from the status GameObject and close its panel
+            var poiManager = status.GetComponent<POIUIManager>();
+            if (poiManager != null) { poiManager.ClosePanel(); }
+        }
+
+        bool showMenu = !menu.activeSelf;
+        menu.SetActive(showMenu);
+        IsMenuOpen = showMenu;
     }
-
-
-    //public void updateLevel(int level)
-    //{
-    //    levelText.text = "Level: " + level.ToString();
-    //}
-
-    //public void updateXp(int currentXP, int requiredXP)
-    //{
-    //    xpText.text = "XP: " + currentXP.ToString() + " / " + requiredXP.ToString();
-    //}
-
-
-    //// Start is called once before the first execution of Update after the MonoBehaviour is created
-    //void Start()
-    //{
-
-    //}
-
-    //// Update is called once per frame
-    //void Update()
-    //{
-
-    //}
 }
