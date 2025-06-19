@@ -338,7 +338,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.15
+  m_fontSize: 32.25
   m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2908,7 +2908,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -2.4998932, y: 0}
+  m_AnchoredPosition: {x: -2.499878, y: 0}
   m_SizeDelta: {x: -25, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &551662285
@@ -4049,7 +4049,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.63500005}
   m_AnchorMax: {x: 1, y: 0.70422345}
-  m_AnchoredPosition: {x: -1.9415894, y: 0.23381042}
+  m_AnchoredPosition: {x: -1.9415283, y: 0.23382568}
   m_SizeDelta: {x: -316.925, y: -0.4677}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &793436886
@@ -4601,7 +4601,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sound settings
+  m_text: Garso nustatymai
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5792,7 +5792,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.63500005}
   m_AnchorMax: {x: 1, y: 0.70422345}
-  m_AnchoredPosition: {x: -1.9415894, y: 0.23381042}
+  m_AnchoredPosition: {x: -1.9415283, y: 0.23382568}
   m_SizeDelta: {x: -316.925, y: -0.4677}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1306521062
@@ -9371,7 +9371,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 65.6
+  m_fontSize: 71.05
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
